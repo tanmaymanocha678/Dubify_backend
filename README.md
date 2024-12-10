@@ -1,5 +1,5 @@
 # Dubify  : Time to be social, go social
-Backend Repo Link : https://github.com/harshgupta1249/chatting-website-backend
+Backend Repo Link : (https://github.com/tanmaymanocha678/Dubify_backend)
 
 ## Introduction
 
